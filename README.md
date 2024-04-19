@@ -1,2 +1,2 @@
 # UAO
- Trabajo Final Gestion y Almacenamiento d edatos 2024-1
+ Trabajo Final Gestion y Almacenamiento de datos 2024-1
